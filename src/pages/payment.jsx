@@ -13,9 +13,9 @@ export default function Payment() {
   };
 
   const bankDetails = {
-    bankName: 'OPAY',
-    accountName: 'TEMILOLUWA HEPHZIBAH OLOMU',
-    accountNumber: '7048183241',
+    bankName: 'MONIEPOINT',
+    accountName: 'JULIET OGOLO',
+    accountNumber: '8029583710',
   };
 
   return (
