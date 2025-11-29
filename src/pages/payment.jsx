@@ -95,7 +95,7 @@ You can use palmpay, moniepoint, Access bank,UBA or other banks to make payment 
             <p className="text-gray-300">
               After payment, click the button below to confirm. Your account will be activated shortly.
             </p>
-            <a href="https://wa.me/message/RFL7EZEI7C4XB1" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/message/3U65TMMZSAFEO1" target="_blank" rel="noopener noreferrer">
             <button
               className="w-full mt-6 bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-bold py-3 rounded-full shadow-lg hover:scale-[1.02] transition"
             >
